@@ -24,7 +24,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-<span style="font-size:16em;">Hi, I'm Shawn!</span> 
+### Hi, I'm Shawn!
+
 I'm a machine learning engineer based in Toronto, Canada <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - 👨‍🎓 Currently in my final year of Engineering Science - Machine Intelligence Specialization Major @ the University of Toronto.
 - :telescope: Looking towards a Master's degree in Computer Science / Engineering.
