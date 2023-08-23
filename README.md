@@ -27,8 +27,6 @@
 ### Hi, I'm Shawn!
 
 I'm a machine learning engineer based in Toronto, Canada <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- 👨‍🎓 Currently in my final year of Engineering Science - Machine Intelligence Specialization Major @ the University of Toronto.
-- :telescope: Looking towards full time opportunities starting Summer/Fall 2023.
 
 
 ### 🔥 My Stats :
