@@ -18,6 +18,6 @@
 
 ### Hi, I'm Shawn!
 
-I'm a machine learning engineer currently based in Toronto, Canada.
+I'm a machine learning engineer currently based in Toronto, Canada. Open to relocate for exciting opportunities.
 
 
