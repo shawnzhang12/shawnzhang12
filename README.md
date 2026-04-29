@@ -6,13 +6,13 @@
   <!-- JAX -->
   <img src="https://raw.githubusercontent.com/google/jax/main/images/jax_logo_250px.png" width="40"/>
   <!-- Triton -->
-  <img src="https://raw.githubusercontent.com/triton-inference-server/server/main/docs/images/triton_logo.png" width="40"/>
+  <img src="https://cdn.simpleicons.org/nvidia" width="40"/>
   <!-- Systems / Scale -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40"/>
   
   <!-- MLflow -->
-  <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" width="40"/>
+  <img src="https://cdn.simpleicons.org/mlflow" width="40"/>
 
   <!-- Serving / APIs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
