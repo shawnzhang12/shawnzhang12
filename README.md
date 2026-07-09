@@ -35,6 +35,7 @@ Machine Learning Engineer working on scalable ML systems, infrastructure, and de
 Some fun side projects:
 
 <a href="https://www.chinesecheckers.xyz/">
-  <img src="https://www.google.com/s2/favicons?domain=chinesecheckers.xyz&sz=32" width="16" height="16" alt="Chinese Checkers favicon">
-  Chinese Checkers
-</a>
+    <img src="https://www.chinesecheckers.xyz/favicon.png" width="16" height="16" alt="Chinese Checkers"
+  />
+    Chinese Checkers
+  </a>
