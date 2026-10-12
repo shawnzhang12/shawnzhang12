@@ -29,7 +29,7 @@
 
 ### Hi, I'm Shawn
 
-Machine Learning Engineer working on scalable ML systems, infrastructure, and deployment. Based in Toronto, open to relocation.
+ML Engineer working on scalable ML systems, infrastructure, and deployment. Based in Palo Alto, CA.
 
 
 Some fun side projects:
