@@ -29,7 +29,7 @@
 
 ### Hi, I'm Shawn
 
-ML Engineer working on scalable ML systems, infrastructure, and deployment. Based in Palo Alto, CA.
+ML Engineer working on cool systems. Based in Palo Alto, CA.
 
 
 Some fun side projects:
